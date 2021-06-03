@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fischman71
 - 👀 I’m interested in app development
-- 🌱 I’m currently learning linux, VBA, SQL, and Python
+- 🌱 I’m currently learning linux, VBA, C, SQL, and Python
 
 - 📫 You can reach me on Telegram @KB_fisch
 
